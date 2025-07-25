@@ -26,6 +26,4 @@ soundnessup install
 ```bash
 soundness-cli generate-key --name my-key
 ```
-```bash
-soundness-cli export-key --name my-key
-```
+
